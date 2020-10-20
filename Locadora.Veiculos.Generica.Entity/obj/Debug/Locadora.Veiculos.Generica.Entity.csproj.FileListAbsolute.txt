@@ -1,0 +1,12 @@
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Generica.Entity\bin\Debug\Locadora.Veiculos.Generica.Entity.dll.config
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Generica.Entity\bin\Debug\Locadora.Veiculos.Generica.Entity.dll
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Generica.Entity\bin\Debug\Locadora.Veiculos.Generica.Entity.pdb
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Generica.Entity\bin\Debug\EntityFramework.dll
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Generica.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Generica.Entity\bin\Debug\EntityFramework.xml
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Generica.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Generica.Entity\obj\Debug\Locadora.Veiculos.Generica.Entity.csprojAssemblyReference.cache
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Generica.Entity\obj\Debug\Locadora.Veiculos.Generica.Entity.csproj.CoreCompileInputs.cache
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Generica.Entity\obj\Debug\Locadora.Veiculos.Generica.Entity.csproj.CopyComplete
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Generica.Entity\obj\Debug\Locadora.Veiculos.Generica.Entity.dll
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Generica.Entity\obj\Debug\Locadora.Veiculos.Generica.Entity.pdb

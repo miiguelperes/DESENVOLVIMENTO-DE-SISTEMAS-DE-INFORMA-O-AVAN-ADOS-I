@@ -1,0 +1,5 @@
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Dominio\bin\Debug\Locadora.Veiculos.Dominio.dll
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Dominio\bin\Debug\Locadora.Veiculos.Dominio.pdb
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Dominio\obj\Debug\Locadora.Veiculos.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Dominio\obj\Debug\Locadora.Veiculos.Dominio.dll
+C:\Users\joaof\source\repos\Locadora.Veiculo\Locadora.Veiculos.Dominio\obj\Debug\Locadora.Veiculos.Dominio.pdb
